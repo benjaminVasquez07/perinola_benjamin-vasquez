@@ -1,5 +1,6 @@
-from perinola_pruebas import Perinola
+from perinola import Perinola
 
 peri = Perinola()
 peri.tirar()
 print(peri)
+
